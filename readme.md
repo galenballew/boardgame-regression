@@ -9,6 +9,7 @@ Wouldn’t it be nice to know if a board game is good *before* you buy it? Let a
 
  **The Toolkit:**
  * scikit-learn
+ * AWS
  * seaborn
  * pandas
  * Web scrapers written by [Sean Beck](https://github.com/ThaWeatherman/scrapers)
